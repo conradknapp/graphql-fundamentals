@@ -1,0 +1,11 @@
+{
+  "name": "graphql-fundamentals",
+  "version": "1.0.0",
+  "main": "server0.js",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-graphql": "^0.6.12",
+    "graphql": "^0.13.1"
+  }
+}
